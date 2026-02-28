@@ -4,9 +4,9 @@
         <description>ชุดเครื่องมือจัดการฐานข้อมูลและตกแต่งแผนที่ระดับองค์กร</description>
         <version>1.1</version>
         <qgis_minimum_version>3.0</qgis_minimum_version>
-        <homepage>https://sutisukkawaguji-spec.github.io/kaigeotools-repo</homepage>
-        <file_name>KaiGeoTools_v1.1.zip</file_name>
+        <homepage>https://github.com/sutisukkawaguji-spec/kaigeotools-repo</homepage>
+        <file_name>metadata.zip</file_name>
         <author_name>Sutthisak Kawaguchi</author_name>
-        <download_url>ใส่ลิงก์ดาวน์โหลด_ZIP_ที่ก๊อปปี้มาจากขั้นที่_2_ตรงนี้</download_url>
+        <download_url>https://github.com/sutisukkawaguji-spec/kaigeotools-repo/releases/download/1.1/metadata.zip</download_url>
     </pyqgis_plugin>
 </plugins>
