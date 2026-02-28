@@ -1,6 +1,6 @@
 <?xml version = "1.0"?>
 <plugins>
-    <pyqgis_plugin name="KaiGeoTools" version="1.3">
+    <pyqgis_plugin name="KAI GeoTools" version="1.3">
         <description>ระบบสืบค้นข้อมูลและจัดการที่ราชพัสดุ (Secure Binary)</description>
         <about>เครื่องมือสำหรับช่างสำรวจ สำนักงานธนารักษ์พื้นที่หนองบัวลำภู</about>
         <version>1.3</version>
