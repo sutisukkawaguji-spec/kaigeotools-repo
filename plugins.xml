@@ -1,12 +1,13 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
+<?xml version = "1.0"?>
 <plugins>
-    <pyqgis_plugin name="KAI GeoTools" version="1.1">
-        <description>ชุดเครื่องมือจัดการฐานข้อมูลและตกแต่งแผนที่ระดับองค์กร</description>
-        <version>1.1</version>
+    <pyqgis_plugin name="KaiGeoTools" version="1.3">
+        <description>ระบบสืบค้นข้อมูลและจัดการที่ราชพัสดุ (Secure Binary)</description>
+        <about>เครื่องมือสำหรับช่างสำรวจ สำนักงานธนารักษ์พื้นที่หนองบัวลำภู</about>
+        <version>1.3</version>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <homepage>https://github.com/sutisukkawaguji-spec/kaigeotools-repo</homepage>
-        <file_name>metadata.zip</file_name>
+        <file_name>KaiGeoTools_v1.3.zip</file_name>
         <author_name>Sutthisak Kawaguchi</author_name>
-        <download_url>https://github.com/sutisukkawaguji-spec/kaigeotools-repo/releases/download/1.1/metadata.zip</download_url>
+        <download_url>https://github.com/sutisukkawaguji-spec/kaigeotools-repo/releases/download/V1.3/KaiGeoTools_v1.3.zip</download_url>
     </pyqgis_plugin>
 </plugins>
